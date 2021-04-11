@@ -1,4 +1,4 @@
-#Site-Surveying-Data-handling-Visualiation
+# Site-Surveying-Data-handling-Visualiation
 
 API for quick data processing and visualisation, particlarly for experimentation, offshore site surveying and resource assessments.
 Instructions for use:
@@ -13,3 +13,10 @@ Instructions for use:
 External Libraries needed to run the dashboard:
 * Pyqt5
 * csaps
+
+A snapshot of the dashboard:
+![](Images/Screenshot.png)
+
+A quick video demonstration:
+https://user-images.githubusercontent.com/25367760/114305140-330bf580-9ad7-11eb-8a77-fa0f1f76cc80.mp4
+

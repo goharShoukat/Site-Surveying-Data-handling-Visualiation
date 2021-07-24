@@ -1,4 +1,4 @@
-# Site-Surveying-Data-handling-Visualiation
+# Site-Surveying-Data-handling-Visualiation [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5134219.svg)](https://doi.org/10.5281/zenodo.5134219)
 
 API for quick data processing and visualisation, particlarly for experimentation, offshore site surveying and resource assessments.
 Instructions for use:
@@ -20,3 +20,13 @@ A snapshot of the dashboard:
 A quick video demonstration:
 https://user-images.githubusercontent.com/25367760/114305140-330bf580-9ad7-11eb-8a77-fa0f1f76cc80.mp4
 
+For Citation:
+@misc{Survey,
+  author = {Shoukat, Gohar.},
+  title = {Site-Surveying-Data-handling-Visualiation},
+  year = {2021},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://zenodo.org/badge/latestdoi/356184371}},
+  
+}
